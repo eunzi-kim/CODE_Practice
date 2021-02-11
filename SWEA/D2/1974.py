@@ -1,8 +1,5 @@
 # 스도쿠 검증
 
-import sys
-sys.stdin = open('input.txt', 'r')
-
 T = int(input())
 for tc in range(1, T+1):
     numbers = []
