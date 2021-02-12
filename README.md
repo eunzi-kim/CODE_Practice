@@ -46,3 +46,23 @@ except:
     exit()    
 ```
 
+
+
+## BAEKJOON_5
+
+>`#4344`문제 주의!
+>
+>반올림 하고 나서 소수점 아래 '0'도 출력하기 살펴보자!!
+
+=> format 사용!
+
+```python
+result = round((u_avg / scores[0]) * 100, 3)
+print('{:.3f}'.format(result, 3))
+```
+
+```python
+'{:.3f}'.format(result, 3)
+```
+
+잘 기억해두자❣
