@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="78637176-3f4c-4007-aae8-b7b52bbcb54c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEKJOON/IM 시험대비/1244.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/IM 시험대비/1244.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2304.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2304.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,40 +19,41 @@
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="22" />
+          <entry key="py" value="26" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="22" />
+          <entry key="Python" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="py" value="9237" />
+          <entry key="py" value="15917" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="9237" />
+          <entry key="Python" value="15917" />
         </counts>
       </usages-collector>
     </session>
@@ -62,11 +63,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BAEKJOON/IM 시험대비/2304.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="85">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/IM 시험대비/2599.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -101,14 +111,18 @@
         <option value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2628.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2116.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2304.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2578.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/13300.py" />
+        <option value="$PROJECT_DIR$/기타 문제들/배열2 연습문제3.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2599.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="423" />
-    <option name="y" value="222" />
-    <option name="width" value="950" />
-    <option name="height" value="716" />
+    <option name="x" value="401" />
+    <option name="y" value="31" />
+    <option name="width" value="951" />
+    <option name="height" value="604" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -119,6 +133,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,11 +156,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../TIL/수업/알고리즘" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -160,8 +174,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2628">
-    <configuration name="1244" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2599">
+    <configuration name="13300" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,7 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/1244.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/13300.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1859" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="배열2 연습문제3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기타 문제들" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D2/1859.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기타 문제들/배열2 연습문제3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2628" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2304" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,7 +229,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2628.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2304.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea_1216" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2578" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,11 +246,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기타 문제들" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/IM 시험대비" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기타 문제들/swea_1216.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2578.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +259,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea_3143" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2599" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,11 +267,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기타 문제들" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/IM 시험대비" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기타 문제들/swea_3143.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/IM 시험대비/2599.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,19 +281,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1859" />
-      <item itemvalue="Python.swea_1216" />
-      <item itemvalue="Python.swea_3143" />
-      <item itemvalue="Python.1244" />
-      <item itemvalue="Python.2628" />
+      <item itemvalue="Python.2304" />
+      <item itemvalue="Python.2578" />
+      <item itemvalue="Python.13300" />
+      <item itemvalue="Python.배열2 연습문제3" />
+      <item itemvalue="Python.2599" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2628" />
-        <item itemvalue="Python.1244" />
-        <item itemvalue="Python.swea_3143" />
-        <item itemvalue="Python.swea_1216" />
-        <item itemvalue="Python.1859" />
+        <item itemvalue="Python.2599" />
+        <item itemvalue="Python.2304" />
+        <item itemvalue="Python.배열2 연습문제3" />
+        <item itemvalue="Python.13300" />
+        <item itemvalue="Python.2578" />
       </list>
     </recent_temporary>
   </component>
@@ -297,15 +311,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="423" y="222" width="950" height="716" extended-state="0" />
+    <frame x="442" y="12" width="951" height="604" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.1995614" />
-      <window_info id="Structure" order="1" sideWeight="0.5073892" side_tool="true" weight="0.1995614" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4827586" visible="true" weight="0.19934283" />
+      <window_info id="Structure" order="1" sideWeight="0.51724136" side_tool="true" weight="0.19934283" />
       <window_info id="Favorites" order="2" sideWeight="0.5017857" side_tool="true" weight="0.21929824" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31841654" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32833335" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3816631" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,17 +445,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/IM 시험대비/2116.py">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/IM 시험대비/2116.py" />
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/IM 시험대비/2578.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="278">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/IM 시험대비/13300.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="50" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/기타 문제들/배열2 연습문제3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/IM 시험대비/2304.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/IM 시험대비/2599.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
