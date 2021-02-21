@@ -24,7 +24,7 @@ for m in range(M):
         i = number - 1
         j = 0
         # 스위치 번호를 중심으로 바깥으로 뻗어나가며 비교
-        while j < number and Switch[i - j] == Switch[i + j]:
+        while j <= i < N - j and Switch[i - j] == Switch[i + j]:
             j += 1
 
         for k in range(j):
@@ -35,4 +35,6 @@ for m in range(M):
                 Switch[i - k] = 1
                 Switch[i + k] = 1
 
-print(Switch)
+# 리스트형을 20개씩 나눠서 문자열로 변환
+for i in range(0, len(Switch), 20):
+    print(*Switch[i:i+20])
