@@ -5,7 +5,7 @@ Arr = list(map(int, input().split()))
 
 count = 1
 countR = 1
-maxV = 0
+maxV = 1
 for i in range(N-1):
     # 정방향
     if Arr[i] <= Arr[i+1]:
