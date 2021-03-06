@@ -1,8 +1,5 @@
 # String
 
-import sys
-sys.stdin = open("input.txt", "r", encoding="UTF-8")
-
 for TC in range(1, 11):
     T = int(input())
     Word = input()
