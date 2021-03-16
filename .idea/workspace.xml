@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78637176-3f4c-4007-aae8-b7b52bbcb54c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78637176-3f4c-4007-aae8-b7b52bbcb54c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +12,7 @@
     <session id="-1521768356">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="53" />
+          <entry key="project.closed" value="54" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="9" />
           <entry key="project.open.time.10" value="5" />
@@ -41,26 +39,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="115" />
+          <entry key="py" value="117" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="115" />
+          <entry key="Python" value="117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="py" value="62992" />
+          <entry key="py" value="63851" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="62992" />
+          <entry key="Python" value="63851" />
         </counts>
       </usages-collector>
     </session>
@@ -71,10 +69,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SWEA/D3/5603.py">
+        <entry file="file://$PROJECT_DIR$/SWEA/D3/3131.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -94,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IM 시험대비.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/4615.py" />
         <option value="$PROJECT_DIR$/SWEA/D2/1859_2.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/3431.py" />
@@ -145,12 +142,13 @@
         <option value="$PROJECT_DIR$/SWEA/D3/4299.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/10570.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/5603.py" />
+        <option value="$PROJECT_DIR$/SWEA/D3/3131.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="27" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="494" />
+    <option name="y" value="-13" />
     <option name="width" value="904" />
     <option name="height" value="716" />
   </component>
@@ -209,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5603">
+  <component name="RunManager" selected="Python.3131">
     <configuration name="10570" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,6 +221,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/10570.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3131" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/3131.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,27 +292,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5162" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Problem Solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/5162.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="5603" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,19 +314,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5162" />
       <item itemvalue="Python.3499" />
       <item itemvalue="Python.4299" />
       <item itemvalue="Python.10570" />
       <item itemvalue="Python.5603" />
+      <item itemvalue="Python.3131" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3131" />
         <item itemvalue="Python.5603" />
         <item itemvalue="Python.10570" />
         <item itemvalue="Python.4299" />
         <item itemvalue="Python.3499" />
-        <item itemvalue="Python.5162" />
       </list>
     </recent_temporary>
   </component>
@@ -346,10 +344,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="27" width="904" height="716" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46100917" visible="true" weight="0.21131639" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46100917" visible="true" weight="0.13616072" />
       <window_info id="Structure" order="1" sideWeight="0.53899086" side_tool="true" weight="0.13616072" />
       <window_info id="Favorites" order="2" sideWeight="0.5017857" side_tool="true" weight="0.21929824" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -362,7 +359,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32840723" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.29776248" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.28407225" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -372,13 +369,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/D3/4615.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
-          <caret line="15" column="23" lean-forward="true" selection-end-line="47" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/D3/3431.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -649,8 +639,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/D3/5603.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3/3131.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
