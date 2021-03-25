@@ -39,6 +39,14 @@
 
 
 
+> 역정렬
+
+```python
+.sort(reverse=True)
+```
+
+
+
 ## BAEKJOON_3
 
 >`#10951` 문제 너무 어려움!!
