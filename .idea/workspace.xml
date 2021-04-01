@@ -63,6 +63,35 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1092022226">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="668" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="668" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Problem Solving" />
@@ -83,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/수업 복습/SWEA_Queue/4613.py" />
         <option value="$PROJECT_DIR$/수업 복습/SWEA_Queue/4613_2.py" />
         <option value="$PROJECT_DIR$/연습장.py" />
         <option value="$PROJECT_DIR$/수업 복습/SWEA_Queue/조합_재귀.py" />
@@ -117,7 +145,6 @@
         <option value="$PROJECT_DIR$/SWEA/D3/4522.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/5356.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/11315.py" />
-        <option value="$PROJECT_DIR$/SWEA/D3/11285.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/5688.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/5642.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/5789.py" />
@@ -134,12 +161,13 @@
         <option value="$PROJECT_DIR$/SWEA/D3/4579.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/3032.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/9700.py" />
+        <option value="$PROJECT_DIR$/SWEA/D3/11285.py" />
+        <option value="$PROJECT_DIR$/SWEA/D3/11445.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="443" />
-    <option name="y" value="23" />
+    <option name="x" value="378" />
     <option name="width" value="904" />
     <option name="height" value="709" />
   </component>
@@ -198,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9700">
+  <component name="RunManager" selected="Python.11445">
     <configuration name="10726" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11387" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11285" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,7 +260,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/11387.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/11285.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3260" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11445" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,7 +281,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/3260.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/11445.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,19 +333,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.3260" />
-      <item itemvalue="Python.11387" />
       <item itemvalue="Python.10726" />
       <item itemvalue="Python.4579" />
       <item itemvalue="Python.9700" />
+      <item itemvalue="Python.11285" />
+      <item itemvalue="Python.11445" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11445" />
+        <item itemvalue="Python.11285" />
         <item itemvalue="Python.9700" />
         <item itemvalue="Python.4579" />
         <item itemvalue="Python.10726" />
-        <item itemvalue="Python.11387" />
-        <item itemvalue="Python.3260" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +363,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="443" y="23" width="904" height="709" extended-state="0" />
+    <frame x="378" y="0" width="904" height="709" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46335697" visible="true" weight="0.21131639" />
       <window_info id="Structure" order="1" sideWeight="0.536643" side_tool="true" weight="0.13616072" />
@@ -367,7 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3/11445.py" />
     <entry file="file://$PROJECT_DIR$/수업 복습/Queue_러시아 국기 같은 깃발.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/D3/5215.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -559,7 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3/11285.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/D3/5688.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -636,6 +662,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3/11285.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3/11445.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
