@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="78637176-3f4c-4007-aae8-b7b52bbcb54c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5201_컨테이너 운반.py" beforeDir="false" afterPath="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5201_컨테이너 운반.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +69,14 @@
     <session id="-1092022226">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -87,29 +89,29 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="34" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="34" />
+          <entry key="Python" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="py" value="22265" />
+          <entry key="py" value="25151" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="22265" />
+          <entry key="Python" value="25151" />
         </counts>
       </usages-collector>
     </session>
@@ -120,10 +122,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5201_컨테이너 운반.py">
+        <entry file="file://$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5207_이진 탐색.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="38" selection-end-line="17" />
+            <state relative-caret-position="180">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <marker date="1619271545204" expanded="true" signature="20:399" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,9 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/D3/4522.py" />
-        <option value="$PROJECT_DIR$/SWEA/D3/5356.py" />
-        <option value="$PROJECT_DIR$/SWEA/D3/11315.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/5688.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/5642.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/5789.py" />
@@ -194,14 +196,17 @@
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5189_전자카트.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5203_베이비진 게임.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5201_컨테이너 운반.py" />
+        <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5204_병합 정렬.py" />
+        <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5205_퀵 정렬.py" />
+        <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5207_이진 탐색.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="376" />
-    <option name="y" value="24" />
+    <option name="x" value="455" />
+    <option name="y" value="3" />
     <option name="width" value="897" />
-    <option name="height" value="726" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -228,6 +233,12 @@
               <item name="Problem Solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="Problem Solving" type="462c0819:PsiDirectoryNode" />
               <item name="수업 복습" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Problem Solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Problem Solving" type="462c0819:PsiDirectoryNode" />
+              <item name="수업 복습" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 sw문제해결 응용_구현" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5201_컨테이너 운반">
+  <component name="RunManager" selected="Python.5207_이진 탐색">
     <configuration name="중위순회" type="PythonConfigurationType" factoryName="Python">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,69 +282,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업 복습/SWEA_Tree/중위순회.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5186_이진수2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Problem Solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5186_이진수2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5188_최소합" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Problem Solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5188_최소합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5189_전자카트" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Problem Solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5189_전자카트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,21 +332,84 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5204_병합 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5204_병합 정렬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5205_퀵 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5205_퀵 정렬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5207_이진 탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5207_이진 탐색.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.중위순회" />
-      <item itemvalue="Python.5186_이진수2" />
-      <item itemvalue="Python.5188_최소합" />
-      <item itemvalue="Python.5189_전자카트" />
       <item itemvalue="Python.5203_베이비진 게임" />
       <item itemvalue="Python.5201_컨테이너 운반" />
+      <item itemvalue="Python.5204_병합 정렬" />
+      <item itemvalue="Python.5205_퀵 정렬" />
+      <item itemvalue="Python.5207_이진 탐색" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5207_이진 탐색" />
+        <item itemvalue="Python.5205_퀵 정렬" />
+        <item itemvalue="Python.5204_병합 정렬" />
         <item itemvalue="Python.5201_컨테이너 운반" />
         <item itemvalue="Python.5203_베이비진 게임" />
-        <item itemvalue="Python.5189_전자카트" />
-        <item itemvalue="Python.5188_최소합" />
-        <item itemvalue="Python.5186_이진수2" />
       </list>
     </recent_temporary>
   </component>
@@ -416,8 +427,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="376" y="24" width="897" height="726" extended-state="0" />
-    <editor active="true" />
+    <frame x="455" y="3" width="897" height="788" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4609929" visible="true" weight="0.18509895" />
       <window_info id="Favorites" order="1" sideWeight="0.525463" side_tool="true" weight="0.21131639" />
@@ -432,7 +442,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32840723" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32840723" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.24873096" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.29862174" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,21 +452,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/D3/5603.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3/3131.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" selection-start-line="2" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/모의/4008.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/D3/5515.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -677,13 +672,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/수업 복습/알고리즘 응용/베이비진 게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/수업 복습/알고리즘 응용/베이비진 게임.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/D3/1240.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -695,9 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="27" column="12" lean-forward="true" selection-end-line="30" selection-end-column="38" />
-          <folding>
-            <marker date="1619249845084" expanded="true" signature="63:239" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -705,9 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="14" column="22" lean-forward="true" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <marker date="1619250673008" expanded="true" signature="99:232" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -722,9 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
-          <folding>
-            <marker date="1619252855831" expanded="true" signature="40:385" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -732,17 +712,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="21" column="27" selection-end-line="30" selection-end-column="38" />
-          <folding>
-            <marker date="1619254568406" expanded="true" signature="17:22" ph="..." />
-            <marker date="1619254568406" expanded="true" signature="17:304" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5201_컨테이너 운반.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5204_병합 정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5205_퀵 정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="38" selection-end-line="17" />
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5207_이진 탐색.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <marker date="1619271545204" expanded="true" signature="20:399" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
