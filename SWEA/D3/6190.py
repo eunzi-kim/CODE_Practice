@@ -1,4 +1,5 @@
 # 정곤이의 단조 증가하는 수
+
 T = int(input())
 for TC in range(1, T+1):
     N = int(input())
