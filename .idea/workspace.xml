@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="78637176-3f4c-4007-aae8-b7b52bbcb54c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/내적.js" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/내적.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/내적.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/내적.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/모의고사.js" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/모의고사.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/모의고사.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/모의고사.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/완주하지 못한 선수.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/완주하지 못한 선수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/체육복.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/체육복.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/크레인 인형뽑기 게임.js" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/크레인 인형뽑기 게임.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/크레인 인형뽑기 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/크레인 인형뽑기 게임.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +76,8 @@
     <session id="-1092022226">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="48" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="53" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="5" />
           <entry key="project.open.time.12" value="2" />
@@ -80,9 +88,10 @@
           <entry key="project.open.time.17" value="4" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.20" value="3" />
           <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -90,33 +99,33 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.opened" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="76" />
+          <entry key="py" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="76" />
+          <entry key="Python" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="17" />
-          <entry key="py" value="51201" />
+          <entry key="dummy" value="28" />
+          <entry key="py" value="55135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="51201" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="55135" />
         </counts>
       </usages-collector>
     </session>
@@ -125,17 +134,7 @@
     <favorites_list name="Problem Solving" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/프로그래머스/내적.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -150,16 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/D4/1216.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/problem/11725.py" />
-        <option value="$PROJECT_DIR$/SWEA/D4/1224.py" />
-        <option value="$PROJECT_DIR$/SWEA/D4/1226.py" />
-        <option value="$PROJECT_DIR$/SWEA/D4/3143.py" />
-        <option value="$PROJECT_DIR$/SWEA/D3/11688.py" />
-        <option value="$PROJECT_DIR$/수업 복습/알고리즘 응용/베이비진 게임.py" />
-        <option value="$PROJECT_DIR$/SWEA/D3/1240.py" />
-        <option value="$PROJECT_DIR$/SWEA/D4/1231.py" />
-        <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5186_이진수2.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5188_최소합.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5189_전자카트.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5203_베이비진 게임.py" />
@@ -201,13 +190,22 @@
         <option value="$PROJECT_DIR$/프로그래머스/완주하지 못한 선수.py" />
         <option value="$PROJECT_DIR$/프로그래머스/크레인 인형뽑기 게임.py" />
         <option value="$PROJECT_DIR$/프로그래머스/내적.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/모의고사.py" />
+        <option value="$PROJECT_DIR$/SWEA/연습문제/4335.py" />
+        <option value="$PROJECT_DIR$/SWEA/연습문제/4335_무인도 탈출.py" />
+        <option value="$PROJECT_DIR$/SWEA/연습문제/4317_칩 생산.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/N개의 최소공배수.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/LV2/JadenCase 문자열 만들기.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/LV2/N개의 최소공배수.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/LV2/피보나치 수.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/LV2/행렬의 곱셈.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/LV2/최솟값 만들기.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="375" />
-    <option name="y" value="21" />
-    <option name="width" value="1043" />
+    <option name="x" value="196" />
+    <option name="width" value="822" />
     <option name="height" value="739" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -231,6 +229,12 @@
               <item name="Problem Solving" type="462c0819:PsiDirectoryNode" />
               <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Problem Solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Problem Solving" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="LV2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -239,11 +243,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../병아리/은지" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\201214Q\Desktop\(❁´◡`❁)\연습&amp;복습\Problem Solving\프로그래머스\LV1" />
+      <recent name="C:\Users\201214Q\Desktop\(❁´◡`❁)\연습&amp;복습\Problem Solving\프로그래머스\LV2" />
       <recent name="C:\Users\201214Q\Desktop\(❁´◡`❁)\연습&amp;복습\Problem Solving\SWEA\D5" />
       <recent name="C:\Users\201214Q\Desktop\SSAFY\연습&amp;복습\Problem Solving\SWEA" />
     </key>
@@ -260,28 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.내적">
-    <configuration name="완주하지 못한 선수" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Problem Solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/완주하지 못한 선수.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.최솟값 만들기">
     <configuration name="크레인 인형뽑기 게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,6 +280,69 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/크레인 인형뽑기 게임.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="행렬의 곱셈" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/LV2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/LV2/행렬의 곱셈.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="피보나치 수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/LV2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/LV2/피보나치 수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="최솟값 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/LV2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/LV2/최솟값 만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +372,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12004" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="JadenCase 문자열 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,11 +380,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/LV2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/12004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/LV2/JadenCase 문자열 만들기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="N개의 최소공배수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\201214Q\Desktop\(❁´◡`❁)\연습&amp;복습\Problem Solving\프로그래머스\LV2\N개의 최소공배수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,7 +435,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2817" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="모의고사" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -374,32 +443,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/2817.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3809" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Problem Solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/3809.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/모의고사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -473,19 +521,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.중위순회" />
-      <item itemvalue="Python.2817" />
-      <item itemvalue="Python.3809" />
-      <item itemvalue="Python.12004" />
-      <item itemvalue="Python.완주하지 못한 선수" />
-      <item itemvalue="Python.내적" />
+      <item itemvalue="Python.N개의 최소공배수" />
+      <item itemvalue="Python.JadenCase 문자열 만들기" />
+      <item itemvalue="Python.행렬의 곱셈" />
+      <item itemvalue="Python.피보나치 수" />
+      <item itemvalue="Python.최솟값 만들기" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.내적" />
-        <item itemvalue="Python.완주하지 못한 선수" />
-        <item itemvalue="Python.12004" />
-        <item itemvalue="Python.3809" />
-        <item itemvalue="Python.2817" />
+        <item itemvalue="Python.최솟값 만들기" />
+        <item itemvalue="Python.피보나치 수" />
+        <item itemvalue="Python.행렬의 곱셈" />
+        <item itemvalue="Python.JadenCase 문자열 만들기" />
+        <item itemvalue="Python.N개의 최소공배수" />
       </list>
     </recent_temporary>
   </component>
@@ -503,15 +551,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="375" y="21" width="1043" height="739" extended-state="0" />
-    <editor active="true" />
+    <frame x="196" y="0" width="822" height="739" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4609929" visible="true" weight="0.16517413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4609929" visible="true" weight="0.2117347" />
       <window_info id="Favorites" order="1" sideWeight="0.525463" side_tool="true" weight="0.21131639" />
       <window_info id="Structure" order="2" sideWeight="0.53900707" weight="0.119906865" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3270869" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.38057324" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.37913907" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -519,7 +566,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32840723" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3279743" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3112583" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.3112583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -529,39 +576,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/D3/1209.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D3/1210.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/D4/1210.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/D4/1216.py" />
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/problem/11725.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/D4/4613.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="31" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D4/1224.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="52" column="41" lean-forward="true" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D4/1226.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/D4/3143.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/수업 복습/알고리즘 응용/베이비진 게임.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/D3/1240.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -750,31 +764,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/프로그래머스/완주하지 못한 선수.py">
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV1/완주하지 못한 선수.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/프로그래머스/체육복.py">
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV1/체육복.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="23" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/프로그래머스/크레인 인형뽑기 게임.py">
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV1/크레인 인형뽑기 게임.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/프로그래머스/내적.py">
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV1/내적.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV1/모의고사.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/연습문제/4317_칩 생산.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/연습문제/4335_무인도 탈출.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV2/N개의 최소공배수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <marker date="1623387399947" expanded="true" signature="35:265" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV2/JadenCase 문자열 만들기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV2/행렬의 곱셈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV2/피보나치 수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV2/최솟값 만들기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
