@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="78637176-3f4c-4007-aae8-b7b52bbcb54c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/내적.js" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/내적.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/내적.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/내적.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/모의고사.js" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/모의고사.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/모의고사.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/모의고사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/완주하지 못한 선수.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/완주하지 못한 선수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/체육복.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/체육복.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/크레인 인형뽑기 게임.js" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/크레인 인형뽑기 게임.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/크레인 인형뽑기 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/LV1/크레인 인형뽑기 게임.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +68,7 @@
     <session id="-1092022226">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="53" />
+          <entry key="project.closed" value="54" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="5" />
@@ -88,7 +80,7 @@
           <entry key="project.open.time.17" value="4" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.20" value="3" />
           <entry key="project.open.time.21" value="3" />
           <entry key="project.open.time.24" value="1" />
@@ -103,29 +95,29 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="54" />
+          <entry key="project.opened" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="88" />
+          <entry key="py" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="88" />
+          <entry key="Python" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="28" />
-          <entry key="py" value="55135" />
+          <entry key="py" value="55508" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="28" />
-          <entry key="Python" value="55135" />
+          <entry key="Python" value="55508" />
         </counts>
       </usages-collector>
     </session>
@@ -134,7 +126,7 @@
     <favorites_list name="Problem Solving" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -149,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5188_최소합.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5189_전자카트.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5203_베이비진 게임.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5201_컨테이너 운반.py" />
@@ -200,11 +191,13 @@
         <option value="$PROJECT_DIR$/프로그래머스/LV2/피보나치 수.py" />
         <option value="$PROJECT_DIR$/프로그래머스/LV2/행렬의 곱셈.py" />
         <option value="$PROJECT_DIR$/프로그래머스/LV2/최솟값 만들기.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/LV2/최댓값과 최솟값.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="196" />
+    <option name="x" value="545" />
+    <option name="y" value="4" />
     <option name="width" value="822" />
     <option name="height" value="739" />
   </component>
@@ -217,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,7 +233,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.최솟값 만들기">
+  <component name="RunManager" selected="Python.최댓값과 최솟값">
     <configuration name="크레인 인형뽑기 게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -301,6 +294,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/LV2/행렬의 곱셈.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="최댓값과 최솟값" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/LV2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/LV2/최댓값과 최솟값.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -521,16 +535,15 @@
     </configuration>
     <list>
       <item itemvalue="Python.중위순회" />
+      <item itemvalue="Python.크레인 인형뽑기 게임" />
       <item itemvalue="Python.N개의 최소공배수" />
       <item itemvalue="Python.JadenCase 문자열 만들기" />
       <item itemvalue="Python.행렬의 곱셈" />
-      <item itemvalue="Python.피보나치 수" />
-      <item itemvalue="Python.최솟값 만들기" />
+      <item itemvalue="Python.최댓값과 최솟값" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.최솟값 만들기" />
-        <item itemvalue="Python.피보나치 수" />
+        <item itemvalue="Python.최댓값과 최솟값" />
         <item itemvalue="Python.행렬의 곱셈" />
         <item itemvalue="Python.JadenCase 문자열 만들기" />
         <item itemvalue="Python.N개의 최소공배수" />
@@ -551,9 +564,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="196" y="0" width="822" height="739" extended-state="0" />
+    <frame x="545" y="4" width="822" height="739" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4609929" visible="true" weight="0.2117347" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4609929" visible="true" weight="0.2117347" />
       <window_info id="Favorites" order="1" sideWeight="0.525463" side_tool="true" weight="0.21131639" />
       <window_info id="Structure" order="2" sideWeight="0.53900707" weight="0.119906865" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -576,7 +589,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/수업 복습/알고리즘 응용/베이비진 게임.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/D3/1240.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -806,27 +818,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/연습문제/4317_칩 생산.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/연습문제/4335_무인도 탈출.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/연습문제/4317_칩 생산.py" />
+    <entry file="file://$PROJECT_DIR$/SWEA/연습문제/4335_무인도 탈출.py" />
     <entry file="file://$PROJECT_DIR$/프로그래머스/LV2/N개의 최소공배수.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <marker date="1623387399947" expanded="true" signature="35:265" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -855,6 +852,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV2/최댓값과 최솟값.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
