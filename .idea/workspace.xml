@@ -68,12 +68,12 @@
     <session id="-1092022226">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="54" />
+          <entry key="project.closed" value="56" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="5" />
           <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -94,30 +94,30 @@
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="55" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="89" />
+          <entry key="py" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="89" />
+          <entry key="Python" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="28" />
-          <entry key="py" value="55508" />
+          <entry key="dummy" value="35" />
+          <entry key="py" value="56684" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="28" />
-          <entry key="Python" value="55508" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Python" value="56684" />
         </counts>
       </usages-collector>
     </session>
@@ -126,7 +126,17 @@
     <favorites_list name="Problem Solving" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/프로그래머스/LV2/올바른 괄호.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -141,9 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5189_전자카트.py" />
-        <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5203_베이비진 게임.py" />
-        <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5201_컨테이너 운반.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5205_퀵 정렬.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5207_이진 탐색.py" />
         <option value="$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5208_전기버스2.py" />
@@ -192,12 +199,15 @@
         <option value="$PROJECT_DIR$/프로그래머스/LV2/행렬의 곱셈.py" />
         <option value="$PROJECT_DIR$/프로그래머스/LV2/최솟값 만들기.py" />
         <option value="$PROJECT_DIR$/프로그래머스/LV2/최댓값과 최솟값.py" />
+        <option value="$PROJECT_DIR$/SWEA/D3/2806.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/LV2/숫자의 표현.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/LV2/올바른 괄호.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="545" />
-    <option name="y" value="4" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="86" />
+    <option name="y" value="-20" />
     <option name="width" value="822" />
     <option name="height" value="739" />
   </component>
@@ -210,7 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,6 +242,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,28 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.최댓값과 최솟값">
-    <configuration name="크레인 인형뽑기 게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Problem Solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/크레인 인형뽑기 게임.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.올바른 괄호">
     <configuration name="행렬의 곱셈" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,6 +283,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/LV2/행렬의 곱셈.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="올바른 괄호" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/LV2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/LV2/올바른 괄호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,6 +388,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업 복습/SWEA_Tree/중위순회.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2806" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/2806.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -535,15 +566,16 @@
     </configuration>
     <list>
       <item itemvalue="Python.중위순회" />
-      <item itemvalue="Python.크레인 인형뽑기 게임" />
       <item itemvalue="Python.N개의 최소공배수" />
       <item itemvalue="Python.JadenCase 문자열 만들기" />
       <item itemvalue="Python.행렬의 곱셈" />
-      <item itemvalue="Python.최댓값과 최솟값" />
+      <item itemvalue="Python.2806" />
+      <item itemvalue="Python.올바른 괄호" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.최댓값과 최솟값" />
+        <item itemvalue="Python.올바른 괄호" />
+        <item itemvalue="Python.2806" />
         <item itemvalue="Python.행렬의 곱셈" />
         <item itemvalue="Python.JadenCase 문자열 만들기" />
         <item itemvalue="Python.N개의 최소공배수" />
@@ -564,9 +596,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="545" y="4" width="822" height="739" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4609929" visible="true" weight="0.2117347" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4609929" visible="true" weight="0.1235119" />
       <window_info id="Favorites" order="1" sideWeight="0.525463" side_tool="true" weight="0.21131639" />
       <window_info id="Structure" order="2" sideWeight="0.53900707" weight="0.119906865" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -579,7 +611,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32840723" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3279743" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.3112583" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.31034482" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -589,27 +621,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/D3/1240.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D4/1231.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="27" column="12" lean-forward="true" selection-end-line="30" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5186_이진수2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="22" lean-forward="true" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/수업 복습/파이썬 sw문제해결 응용_구현/5188_최소합.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -859,6 +870,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3/2806.py" />
+    <entry file="file://$PROJECT_DIR$/SWEA/D4/4613.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/LV2/올바른 괄호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
